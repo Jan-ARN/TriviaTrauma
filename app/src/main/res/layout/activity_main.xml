@@ -22,4 +22,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.062" />
 
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="296dp"
+        android:layout_height="46dp"
+        android:background="@drawable/roundedbtn"
+        android:text="Start"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="10dp"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="433dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
