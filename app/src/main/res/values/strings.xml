@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">TriviaTrauma</string>
+    <string name="sign_up">Sign up</string>
+    <string name="button_login">Log in</string>
+    <string name="button_registrieren">Registrieren</string>
+    <string name="Login_titel">Log in</string>
+    <string name="Registrierung_titel">Registrierung</string>
+    <string name="E_mail">E-mail:</string>
+    <string name="Passwort">Paswort:</string>
+    <string name="bestätigung_button">Bestätigen</string>
+    <string name="noch_kein_konto_button">Noch kein Konto?</string>
+    <string name="dohch_ein_konto_button">Doch schon ein Konto?</string>
+
+    <string name="einzelspieler_button">Einzelspieler</string>
+    <string name="mehrspieler_button">Mehrspieler</string>
+    <string name="einstellungen_button">Einstellungen</string>
+
+    <string name="onlinespiel_suchen">Online Spiel suchen</string>
+
+    <string name="einstellungen_titel">Einstellungen</string>
+
+    <string name="ton_leiser">Ton leiser</string>
+    <string name="ton_lauter">Ton lauter</string>
 </resources>
